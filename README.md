@@ -11,28 +11,32 @@
 
 ---
 
-<img src="/github/metrics.svg" alt="Metrics" width="100%">
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Jayantd11&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+
+![Streak](https://streak-stats.demolab.com?user=Jayantd11&theme=github-dark-blue&hide_border=true)
+
+</div>
 
 ---
 
+<div align="center">
+
 <table>
   <tr>
-    <td width="50%">
-      <img src="/github/metrics.habits.svg" alt="Coding Habits" width="100%">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayantd11&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages">
     </td>
-    <td width="50%">
-      <img src="/github/metrics.isocalendar.svg" alt="Isometric Calendar" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="/github/metrics.languages.svg" alt="Languages" width="100%">
-    </td>
-    <td width="50%">
-      <img src="/github/metrics.topics.svg" alt="Topics" width="100%">
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jayantd11&theme=github_dark&utcOffset=-4" alt="Productive Time">
     </td>
   </tr>
 </table>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayantd11&theme=github-compact&hide_border=true&area=true)
+
+</div>
 
 ---
 
